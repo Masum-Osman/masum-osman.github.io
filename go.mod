@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/Masum-Osman/masum-osman.github.io
 
 go 1.22.2
 
