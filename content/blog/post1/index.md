@@ -8,6 +8,8 @@ date: 2019-12-28
 # caption: Image caption
 authors:
   - Masum Osman: author.jpeg
+external_link: "https://masum26.medium.com/minimal-best-practices-for-creating-a-well-designed-api-28e2e37a39"
+
 ---
 
 [Read the full article on Medium](https://masum26.medium.com/minimal-best-practices-for-creating-a-well-designed-api-28e2e37a39)
