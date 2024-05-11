@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: Masum-Osman
+  name: Masum Osman Khan
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Senior Software Engineer || Backend Engineer L2 @ 10 MS || DevOps"
   icon: ":wave:"
 
 ############################
@@ -14,23 +14,23 @@ author:
 
 links:
   - github: https://github.com/Masum-Osman/masum-osman.github.io
-  - link: https://github.com/Masum-Osman/masum-osman.github.io#readme
+  # - link: https://github.com/Masum-Osman/masum-osman.github.io#readme
   # - website: 
-  # - x-twitter: 
+  - x-twitter: https://twitter.com/masum_osman
   # - mastodon: 
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/masumosman/
   # - instagram: 
   # - reddit: 
   # - telegram: 
   # - whatsapp: 
   # - signal: 
   # - codepen: 
-  # - dev: 
-  # - email: 
+  - dev: https://dev.to/masumosman
+  - email: osmanmasum.cs@gmail.com
   # - discord: 
   # - orcid: 
   # - slack: 
-  # - stack-overflow: 
+  - stack-overflow: https://stackoverflow.com/users/7086610/osman-gani-khan-masum
   # - twitch: 
   # - patreon: 
   # - soundcloud: 
@@ -52,7 +52,7 @@ links:
   # - strava: 
   # - untappd: 
   # - skype: 
-  # - medium: 
+  - medium: https://masum26.medium.com/
   # - foursquare: 
   # - apple: 
   # - amazon:
