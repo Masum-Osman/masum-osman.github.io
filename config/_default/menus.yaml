@@ -19,7 +19,7 @@ main:
   url: /skills/
   weight: 80
 - name: Blogs
-  url: /blogs/
+  url: /blog/
   weight: 100
 
 
