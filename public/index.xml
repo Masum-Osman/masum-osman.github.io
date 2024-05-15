@@ -45,24 +45,24 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/experience/</link>
+      <link>http://localhost:1313/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
-      <description>Experience</description>
+      <guid>http://localhost:1313/education/</guid>
+      <description>Education: Daffodil International University-DIU Degree: Bachelor&amp;rsquo;s degree, Computer Science Duration: 2015 - 2019 CGPA: 3.77 out of 4.00 Skills: Web Development · Node.js · Object-Oriented Programming (OOP) · Databases · C · Algorithms · Go (Programming Language) · Data Structures · JavaScript · Back-End Web Development · API Development · PHP · Microservices · Laravel Kazi Mohammad Shafiqul Islam College Degree: Higher Secondary School Certificate, Science Duration: 2012 - 2014 GPA: 5.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/services/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/</guid>
-      <description></description>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>Work Experience:&#xA;10 Minute School Backend Engineer, Specialist - Level 2 Company: 10 Minute School Duration: Feb 2024 - Present Location: Dhaka, Bangladesh Responsibilities: Engineered and deployed a Progress Service with NestJS and Apache Airflow for seamless student progress tracking. Truck Lagbe Senior Software Engineer Duration: Jan 2023 - Jan 2024 (1 yr 1 mo) Location: Mohakhali DOHS, Dhaka Responsibilities: Directed a team of 6 proficient Backend Engineers, fostering enhanced collaboration and productivity.</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/skills/</guid>
-      <description></description>
+      <description>Specialist At: Go, TypeScript, Python, PHP Node JS, Nest JS, Beego, Laravel, Flask API MySQL, Redis, MongoDB, SQLite3, InfluxDB, Neo4j API Gateway, ReST, gRPC, Payment Gateway (bKash, SSL Gateway) Google’s GCP (GCS, VM), Google APIs, ReST, MQTT Amazon’s AWS (EC2, S3, Serverless, VPC, RDS, LB, EKS, ECS, EBS, Lightsail) Docker, Docker Swarm, Terraform Nginx, PM2, RabbitMQ Cron, Git, Terminus, Agile, Scrum, Jira, Trello Microservices, SOA, TDD A Brief History of Time: </description>
     </item>
     <item>
       <title>Ensuring High Availability —Infrastructures Design</title>
