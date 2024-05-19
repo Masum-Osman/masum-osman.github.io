@@ -12,7 +12,6 @@ icon: ":coffee:"
 Work Experience:
 ## [10 Minute School](https://10minuteschool.com/){:target="_blank"}
 ### Backend Engineer, Specialist - Level 2
-- **Company:** 10 Minute School
 - **Duration:** Feb 2024 - Present
 - **Location:** Dhaka, Bangladesh
   
@@ -38,6 +37,7 @@ Work Experience:
 #### Skills:
 Java, Leadership, JavaScript, Node.js, Docker
 
+
 ### Software Engineer
 - **Duration:** Jan 2021 - Dec 2022 (2 yrs)
 - **Location:** On-site
@@ -55,6 +55,8 @@ Java, Leadership, JavaScript, Node.js, Docker
 #### Skills:
 
 DevOps API Development, Back-End Web Development, Go (Programming Language), Databases, Terraform, Google Cloud Platform (GCP), CI/CD, Node.js, Microservices, Kubernetes, RabbitMQ, Redis
+
+
 
 
 ### Junior Software Engineer

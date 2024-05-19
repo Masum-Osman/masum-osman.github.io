@@ -10,12 +10,16 @@
 - **Duration:** 2012 - 2014
 - **GPA:** 5.00 out of 5.00
 
-#### 3. Madhabpur Pilot High School  
+#### 2. Madhabpur Pilot High School
+- **Degree:** Secondary School Certificate, Science
+- **Duration:** 2008 - 2012 
+- **GPA:** 5.00 out of 5.00
+
+<!-- #### 3. Madhabpur Pilot High School  
 - **Degree:** Secondary School Certificate, Science  
 - **Duration:** 2008 - 2012  
-- **GPA:** 5.00 out of 5.00  
+- **GPA:** 5.00 out of 5.00   -->
 
-    Courses:
 
 ## Professional Course:
 1. gRPC Master Class: Build Modern API & Microservices - Udemy
@@ -33,55 +37,55 @@
 ## Projects/Services:
 ### GPS Subscription
 - **Duration:** Sep 2023 - Sep 2023
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Skills:** MySQL · Go (Programming Language) · Payment Gateways · Amazon Web Services (AWS)
 
 ### Truck Marketplace
 - **Duration:** Aug 2023 - Aug 2023
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Skills:** MySQL · Go (Programming Language) · RESTful WebServices
 
 ### Price Predictor
 - **Duration:** Jun 2023 - Jun 2023
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Skills:** REST API · MySQL · Go (Programming Language)
 
 ### Image Server
 - **Duration:** Apr 2022 - Apr 2022
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Technologies used:** GoLang, GCP(GCS), Redis.
 - **Skills:** Google Cloud Platform (GCP)
 
 ### API Gateway
 - **Duration:** Mar 2022 - Mar 2022
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Skills:** Microservices · Express.js
 
 ### Driver Referral
 - **Duration:** Nov 2021 - Nov 2021
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Technologies used:** GoLang, MySQL, Cronjob.
 - **Skills:** Microservices · Go (Programming Language)
 
 ### Cash Disbursement
 - **Duration:** Jan 2020 - Jan 2020
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Technologies used:** NodeJS, MySQL, Payment Gateway, MongoDB, Angular.
 - **Skills:** Microservices · Go (Programming Language)
 
 ### MFS - Payment Gateway
 - **Duration:** Apr 2019 - Jun 2019
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Technologies used:** NodeJS, MySQL, MongoDB, ReST.
 
 ### Truck Lagbe Shipper App
 - **Duration:** Apr 2019 - Apr 2019
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Skills:** JavaScript · Object-Oriented Programming (OOP)
 
 ### Truck Lagbe Owner App
 - **Duration:** Mar 2019 - Mar 2019
-<!-- - **Associated with Truck Lagbe** -->
+
 - **Skills:** JavaScript · Object-Oriented Programming (OOP) · JSON
 
 ### masum26

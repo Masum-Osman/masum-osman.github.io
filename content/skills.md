@@ -10,5 +10,14 @@
 - Cron, Git, Terminus, Agile, Scrum, Jira, Trello
 - Microservices, SOA, TDD
 
-## A Brief History of Time:
+- Programming Languages:
+  - `Go`, `TypeScript`, `Python`, `PHP`
 
+## A Brief History of Time:
+- C, C++
+- Java
+- Prolog
+- Assembly Language
+
+<small>This text will be smaller.</small>
+<small style="font-size: 10px;">This text will be even smaller.</small>
