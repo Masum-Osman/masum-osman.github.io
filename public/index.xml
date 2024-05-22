@@ -62,7 +62,7 @@
       <link>http://localhost:1313/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/skills/</guid>
-      <description>Specialist At: Go, TypeScript, Python, PHP&#xA;Node JS, Nest JS, Beego, Laravel, Flask API&#xA;MySQL, Redis, MongoDB, SQLite3, InfluxDB, Neo4j&#xA;API Gateway, ReST, gRPC, Payment Gateway (bKash, SSL Gateway)&#xA;Google’s GCP (GCS, VM), Google APIs, ReST, MQTT&#xA;Amazon’s AWS (EC2, S3, Serverless, VPC, RDS, LB, EKS, ECS, EBS, Lightsail)&#xA;Docker, Docker Swarm, Terraform&#xA;Nginx, PM2, RabbitMQ&#xA;Cron, Git, Terminus, Agile, Scrum, Jira, Trello&#xA;Microservices, SOA, TDD&#xA;Programming Languages:&#xA;Go, TypeScript, Python, PHP A Brief History of Time: C, C++ Java Prolog Assembly Language This text will be smaller.</description>
+      <description>Specialist At: Go, TypeScript, Python, PHP Node JS, Nest JS, Beego, Laravel, Flask API MySQL, PostgreSQL, Redis, MongoDB, SQLite3, InfluxDB, Neo4j API Gateway, ReST, gRPC, Payment Gateway (bKash, SSL Gateway) Google’s GCP (GCS, VM), Google APIs, ReST, MQTT Amazon’s AWS (EC2, S3, Serverless, VPC, RDS, LB, EKS, ECS, EBS, Lightsail) Docker, Docker Swarm, Terraform Nginx, PM2, RabbitMQ Cron, Git, Terminus, Agile, Scrum, Jira, Trello Microservices, SOA, TDD Programming, Scripting, and markup languages: Go TypeScript JavaScript Python PHP C C++ Java Ruby Bash SQL Prolog Assembly HTML/CSS Databases: MySQL PostgreSQL Redis MongoDB InfluxDB SQLite3 Neo4j Elasticsearch Cloud Platforms: Amazon Web Services (AWS) Google Cloud Firebase Heroku Netlify Linode/Akamai Managed Hosting Web Frameworks and Technologies: Node.</description>
     </item>
     <item>
       <title>Ensuring High Availability —Infrastructures Design</title>
