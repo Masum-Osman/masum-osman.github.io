@@ -37,4 +37,4 @@ Application Development • Cloud Application Development • Cloud Management �
 
 
 
-## Recommendations:
+<!-- ## Recommendations: -->

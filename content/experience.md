@@ -9,7 +9,6 @@ bio: false
 icon: ":coffee:"
 --- -->
 
-Work Experience:
 ## [10 Minute School](https://10minuteschool.com/){:target="_blank"}
 ### Backend Engineer, Specialist - Level 2
 - **Duration:** Feb 2024 - Present

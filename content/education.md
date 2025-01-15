@@ -1,24 +1,19 @@
 ## Education:
 #### 1. Daffodil International University-DIU
-- **Degree:** Bachelor's degree, Computer Science
-- **Duration:** 2015 - 2019
-- **CGPA:** 3.77 out of 4.00
-- **Skills:** Web Development · Node.js · Object-Oriented Programming (OOP) · Databases · C · Algorithms · Go (Programming Language) · Data Structures · JavaScript · Back-End Web Development · API Development · PHP · Microservices · Laravel
+- Bachelor's degree, Computer Science
+- 2015 - 2019
+- 3.77 out of 4.00
+<!-- - **Skills:** Web Development · Node.js · Object-Oriented Programming (OOP) · Databases · C · Algorithms · Go (Programming Language) · Data Structures · JavaScript · Back-End Web Development · API Development · PHP · Microservices · Laravel -->
 
 #### 2. Kazi Mohammad Shafiqul Islam College
-- **Degree:** Higher Secondary School Certificate, Science
-- **Duration:** 2012 - 2014
-- **GPA:** 5.00 out of 5.00
+- Higher Secondary School Certificate, Science
+- 2012 - 2014
+- 5.00 out of 5.00
 
 #### 2. Madhabpur Pilot High School
-- **Degree:** Secondary School Certificate, Science
-- **Duration:** 2008 - 2012 
-- **GPA:** 5.00 out of 5.00
-
-<!-- #### 3. Madhabpur Pilot High School  
-- **Degree:** Secondary School Certificate, Science  
-- **Duration:** 2008 - 2012  
-- **GPA:** 5.00 out of 5.00   -->
+- Secondary School Certificate, Science
+- 2008 - 2012 
+- 5.00 out of 5.00
 
 
 ## Professional Course:

@@ -13,35 +13,35 @@
       <link>http://localhost:1313/blog/post2/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post2/</guid>
-      <description>Read the full article on Medium</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.devops.dev/included-redis-to-minimize-huge-cost-on-gcp-gcs-per-hit-e64112fe5f75&#34;&gt;Read the full article on Medium&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ensuring High Availability —Infrastructures Design</title>
+      <link>http://localhost:1313/blog/post3/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.datadriveninvestor.com/ensuring-high-availability-infrastructures-design-9cfe1bce27ae&#34;&gt;Read the full article on Medium&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Docker Swarm</title>
       <link>http://localhost:1313/blog/post4/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post4/</guid>
-      <description>Read the full article on Gitbook</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://masum-osman.gitbook.io/system-drawing/docker-swarm&#34;&gt;Read the full article on Gitbook&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Loop Back</title>
       <link>http://localhost:1313/blog/post5/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post5/</guid>
-      <description>Read the full article on Gitbook</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://masum-osman.gitbook.io/system-drawing/loop-back&#34;&gt;Read the full article on Gitbook&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minimal best practices for creating well-designed API</title>
       <link>http://localhost:1313/blog/post1/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post1/</guid>
-      <description>Read the full article on Medium</description>
-    </item>
-    <item>
-      <title>Ensuring High Availability —Infrastructures Design</title>
-      <link>http://localhost:1313/blog/post3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post3/</guid>
-      <description>Read the full article on Medium</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://masum26.medium.com/minimal-best-practices-for-creating-a-well-designed-api-28e2e37a39&#34;&gt;Read the full article on Medium&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
